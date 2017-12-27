@@ -1,0 +1,33 @@
+{
+    "name": "linkit",
+    "title": "LinkIt jQuery Plugin",
+    "description": "Simple plugin to convert any element into a link",
+    "keywords": [
+        "link",
+        "html",
+		"content"
+    ],
+    "version": "0.2.0",
+    "author": {
+        "name": "Wendiku",
+        "url": "https://github.com/Wendiku/jquery.linkit"
+    },
+    "maintainers": [
+        {
+            "name": "Wendiku",
+            "email": "mangkeyou@gmail.com",
+            "url": "https://github.com/Wendiku/jquery.linkit"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/Wendiku/jquery.linkit"
+        }
+    ],
+    "homepage": "",
+    "docs": "https://github.com/Wendiku/jquery.linkit",
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
